@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Uber-Eat-App-Clone/static/css/main.522945ad.css",
+    "main.js": "/Uber-Eat-App-Clone/static/js/main.f8a18eec.js",
+    "index.html": "/Uber-Eat-App-Clone/index.html",
+    "main.522945ad.css.map": "/Uber-Eat-App-Clone/static/css/main.522945ad.css.map",
+    "main.f8a18eec.js.map": "/Uber-Eat-App-Clone/static/js/main.f8a18eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.522945ad.css",
+    "static/js/main.f8a18eec.js"
+  ]
+}
